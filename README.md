@@ -103,7 +103,7 @@ This effectively prioritizes avoiding false accusations over harm detection.
 
 (Full classification reports are available by running `src/evaluate.py`.)
 
-## Interpretation (AI & Society)
+## Interpretation 
 
 Comparing a majority-class baseline, Naive Bayes, and a linear SVM illustrates that model choice encodes implicit normative priorities:
 
